@@ -79,3 +79,11 @@
 ### Этап 5. Формулирование выводов
 - Сравните примеры предсказаний двух моделей, а также получившиеся метрики.
 - Сделайте выводы о том, какую модель лучше использовать и почему.
+
+Статистика по работе всего блокнота solution.ipynb:
+1. MacBook c M4Max + 128GB RAM, запуск на MPS ~ 4h 30m 
+2. Yandex VM ~ 
+3. NVidia Orin Jetson Nano - ToDo
+4. DeskTop Ubuntu + RTX 3090 - ToDo
+5. LapTop Ubuntu + RTX 4080 mobile - ToDo
+6. 
